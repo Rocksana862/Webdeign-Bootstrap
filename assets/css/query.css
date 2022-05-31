@@ -1,0 +1,23 @@
+@media all and (max-width: 1200px
+px) {
+  .container {
+    width: 100%;
+  }
+  .banner_slide_one {
+    width: 100%;
+  }
+}
+@media all and (max-width: 1024px) {
+  .caontainer {
+    width: 100%;
+  }
+  .banner_slide_one {
+    width: 100%;
+  }
+}
+@media all and (max-width: 768px) {
+  #banner .banner_slider .banner_slide_one {
+    width: 100%;
+    background: none;
+  }
+}
